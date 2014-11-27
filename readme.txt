@@ -30,18 +30,6 @@ rsa server7-8的升级，客户端Windows和linux均不需要更改代码及库，只需要替换下sdcon
 agent_nsload -f nodesecret.rec -d /var/ace
 输入密码为在服务器上生成文件时设置的密码
 
-
-
-
-
-
-
-
-
-
-
-
-
 2014.5.12更改增加返回值
 
 Return Value: Description
