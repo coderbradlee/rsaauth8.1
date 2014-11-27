@@ -1,0 +1,1 @@
+CLIENT_IP=x.x.x.x(此处IP为本机Redhat linux与RSA服务器建立通信的Ip)；
