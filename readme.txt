@@ -16,7 +16,7 @@ rsaauth在装有rsa客户端的linux系统执行，或将sdconf.rec及sdopts.rec放到var/ace下面
 windows下：
 1、rsa服务器要有此机器ip
 
-2、sdopts.rec填写此机器ip，如CLIENT_IP=10.21.168.202,后面不要加分号
+2、sdopts.rec填写此机器ip，如CLIENT_IP=AD server ip,后面不要加分号
 3、sdconf.rec必须放在C:\Windows\SysWOW64下
 4、此机器到rsa主从端口5550 5580必须通
 
